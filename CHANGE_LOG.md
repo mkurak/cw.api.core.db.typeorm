@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.2.5] - 2025-09-21
+### Changed
+- Removed the post-commit tag automation to keep release tagging manual.
+
 ## [0.2.3] - 2025-09-21
 ### Changed
 - Updated the publish workflow configuration to accommodate the latest deployment changes.
