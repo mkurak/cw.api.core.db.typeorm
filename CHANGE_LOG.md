@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.2.2] - 2025-09-21
+### Added
+- Added a lightweight smoke test that runs the manager against a stubbed DataSource to ensure lifecycle APIs behave without a real database.
+### Changed
+- Release documentation now references `npm version <type>` followed by `git push --follow-tags`.
+
 ## [0.2.1] - 2025-09-21
 ### Changed
 - Removed the `release` npm script and updated documentation to instruct running `npm version <type>` followed by `git push --follow-tags`.
