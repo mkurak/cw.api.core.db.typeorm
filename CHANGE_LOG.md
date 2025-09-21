@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.2.3] - 2025-09-21
+### Changed
+- Updated the publish workflow configuration to accommodate the latest deployment changes.
+
 ## [0.2.2] - 2025-09-21
 ### Added
 - Added a lightweight smoke test that runs the manager against a stubbed DataSource to ensure lifecycle APIs behave without a real database.
