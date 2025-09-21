@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.2.1] - 2025-09-21
+### Changed
+- Removed the `release` npm script and updated documentation to instruct running `npm version <type>` followed by `git push --follow-tags`.
+
 ## [0.2.0] - 2025-09-21
 - Implement `TypeOrmManager` with configuration, lazy initialization, and
   migration helpers.

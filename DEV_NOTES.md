@@ -6,7 +6,7 @@
 - npm run build
 - npm run test
 - npm run lint
-- npm run release -- <type>
+- npm version <type> (follow with `git push --follow-tags`)
 
 ## TODO
 - 
